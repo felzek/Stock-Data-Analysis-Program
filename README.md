@@ -1,6 +1,6 @@
 # VBA-StockData
 
-#StockData Analysis
+# StockData Analysis
 
 ![jpg](IMG/Stock_Exchange.jpg)
 
@@ -19,8 +19,8 @@ Find Clarity with in the world of chaotic stock market with this VBA script. Ful
 
 ## From Before
 
-![](IMG/Raw File.png)
+![](IMG/Raw%20File.png)
 
 ## To AFTER 
 
-![](Analysis Output/2016 Data.png)
+![](Analysis%20Output/2016%20Data.png)
