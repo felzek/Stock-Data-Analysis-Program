@@ -4,7 +4,7 @@
 
 ![jpg](IMG/Stock_Exchange.jpg)
 
-#Introductions
+# Introductions
 
 Find Clarity with in the world of chaotic stock market with this VBA script. Full Capacity analysis that let you quickly determine the following with one click of a button:
 
@@ -17,10 +17,10 @@ Find Clarity with in the world of chaotic stock market with this VBA script. Ful
 7.Stock with the Greatest Volume
 
 
-From Before
+## From Before
 
-![PMG](IMG/Raw File.png)
+![](IMG/Raw File.png)
 
-To AFTER 
+## To AFTER 
 
-![PMG](Analysis Output/2016 Data.png)
+![](Analysis Output/2016 Data.png)
