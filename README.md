@@ -1,12 +1,12 @@
 # StockData Analysis
 <div style="display: block;
-    margin: auto;padding-left: 40%;">
-  <img src="IMG/Stock_Exchange.jpg" width = 400px;
+    margin: auto;padding-left: 40% !important;">
+  <img src="IMG/Stock_Exchange.jpg" width = 400px; style="padding-left: 40% !important"
     ></img></div>
 
 
 ## Introductions
-
+ 
 Find Clarity with in the world of chaotic stock market with this VBA script. Full Capacity analysis that let you quickly determine the following with one click of a button:
 
 1.Stock name 
