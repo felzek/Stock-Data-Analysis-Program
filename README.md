@@ -1,7 +1,7 @@
 # StockData Analysis
 <div style="display: block;
     margin: auto;padding-left: 40% !important;">
-  <img src="IMG/Stock_Exchange.jpg" width = 400px; style="padding-left: 40% !important"
+  <img src="IMG/Stock_Exchange.jpg" width = 400px; style="padding-left: 40% !important;"
     ></img></div>
 
 
