@@ -1,6 +1,6 @@
 # StockData Analysis
 
-![jpg](IMG/Stock_Exchange.jpg = 250 * 250)
+<img src="IMG/Stock_Exchange.jpg" width = "400px"></img>
 
 # Introductions
 
