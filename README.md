@@ -1,11 +1,11 @@
 # StockData Analysis
 
-<img src="IMG/Stock_Exchange.jpg" 
+<img src="IMG/Stock_Exchange.jpg"  style="
     width = "400px,  
     margin: auto;
     width: 50%;
     border: 3px solid green;
-    padding: 10px;;"></img>
+    padding: 10px;"></img>
 
 ## Introductions
 
