@@ -2,7 +2,7 @@
 
   <img src="IMG/Stock_Exchange.jpg" style="display: block;
     margin: auto;
-    width: 40%;"></img>
+    width: 400px;"></img>
 
 
 ## Introductions
