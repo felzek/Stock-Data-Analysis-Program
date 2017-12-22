@@ -1,5 +1,3 @@
-# VBA-StockData
-
 # StockData Analysis
 
 ![jpg](IMG/Stock_Exchange.jpg)
