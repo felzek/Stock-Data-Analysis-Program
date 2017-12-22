@@ -1,8 +1,8 @@
 # StockData Analysis
-
-  <img src="IMG/Stock_Exchange.jpg" style="display: block;
-    margin: auto;
-    width: 400px;"></img>
+<div style="display: block;
+    margin: auto;width: 400px;">
+  <img src="IMG/Stock_Exchange.jpg" width = 400px;
+    ></img></div>
 
 
 ## Introductions
